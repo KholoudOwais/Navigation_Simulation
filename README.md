@@ -16,3 +16,7 @@
 4. Set Navigation Goal
   - Click the `2D Nav Goal button` in the RViz menu.
   - Click on the map to set the destination of the robot and drag the green arrow toward the direction where the robot will be facing.
+
+## Result
+
+<img src = 'Demo.png'>
